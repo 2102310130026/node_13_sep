@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "first_name": "Barnabas",
+        "last_name": "Heaven",
+        "email": "bheaven0@com.com",
+        "gender": "Male",
+        "ip_address": "242.29.130.143"
+    },
+    {
+        "id": 2,
+        "first_name": "Caitrin",
+        "last_name": "Sieghard",
+        "email": "csieghard1@weather.com",
+        "gender": "Female",
+        "ip_address": "224.34.157.66"
+    },
+    {
+        "id": 3,
+        "first_name": "Griffith",
+        "last_name": "Springtorpe",
+        "email": "gspringtorpe2@kickstarter.com",
+        "gender": "Male",
+        "ip_address": "135.107.172.232"
+    },
+    {
+        "id": 4,
+        "first_name": "Patrica",
+        "last_name": "Eaden",
+        "email": "peaden3@facebook.com",
+        "gender": "Agender",
+        "ip_address": "71.189.195.172"
+    },
+    {
+        "id": 5,
+        "first_name": "Theodor",
+        "last_name": "Riba",
+        "email": "triba4@prlog.org",
+        "gender": "Male",
+        "ip_address": "225.29.96.90"
+    },
+    {
+        "id": 6,
+        "first_name": "Sidney",
+        "last_name": "Tungay",
+        "email": "stungay5@devhub.com",
+        "gender": "Male",
+        "ip_address": "223.57.251.200"
+    },
+    {
+        "id": 7,
+        "first_name": "Rey",
+        "last_name": "Davison",
+        "email": "rdavison6@alibaba.com",
+        "gender": "Male",
+        "ip_address": "232.218.153.60"
+    },
+    {
+        "id": 8,
+        "first_name": "Amandy",
+        "last_name": "McVanamy",
+        "email": "amcvanamy7@cloudflare.com",
+        "gender": "Female",
+        "ip_address": "151.81.69.68"
+    },
+    {
+        "id": 9,
+        "first_name": "Borden",
+        "last_name": "Chanter",
+        "email": "bchanter8@house.gov",
+        "gender": "Male",
+        "ip_address": "225.53.230.161"
+    },
+    {
+        "id": 10,
+        "first_name": "Deva",
+        "last_name": "Glasner",
+        "email": "dglasner9@mlb.com",
+        "gender": "Female",
+        "ip_address": "165.155.22.190"
+    }
+]
